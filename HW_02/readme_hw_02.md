@@ -5,7 +5,7 @@
 - then create a new branch (for example `my_hw_02`)
 - and go to the directory to `HW_02`
 - create a folder with your name `Name_Surname`
-- inside the folder create a file **.rb for every task, for example `name_surname_hw_02_t_01.rb` 
+- inside the folder create a file .rb for every task, for example `name_surname_hw_02_t_01.rb` 
 - for task 2, should be `name_surname_hw_02_t_02.rb` etc...
 - HARD WORK!
 - and then create a PR (pull request) to https://github.com/labs-ruby/homeworks master branch
