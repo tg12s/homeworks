@@ -31,7 +31,7 @@ git checkout
 ### 2) Work with branch. Master and other branch:
 you must have forked ruby-labs info repository.
 and you forked repositories with master branch should be the same as master at ruby-labs account. So:
-if you've created *.md file with your information at master branch, please, remove it (from remote repo also!). 
+if you've created ".md" file with your information at master branch, please, remove it (from remote repo also!). 
 In there, then create a new branch, (ex. "homework_01")
 add this file (with your information) again
 make a PR to the ruby-labs repo
