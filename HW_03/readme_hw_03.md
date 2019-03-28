@@ -7,7 +7,6 @@
 - and go to the directory to `HW_03`
 - create a folder with your name `Name_Surname`
 - inside the folder create a file .rb for every task, for example `name_surname_hw_03_t_01.rb` 
-- for task 2, should be `name_surname_hw_03_t_02.rb` etc...
 - HARD WORK!
 - and then create a PR (pull request) to https://github.com/labs-ruby/homeworks master branch
 - you homeworks also will be automatically checked by `rubocop`. So, please 
@@ -16,7 +15,7 @@
 
 ### Tasks:
 
-#### 1. at the input of metod `task_1` (read "variable") is sent text:
+#### 1. at the input of method `task_1` (read "variable") is sent text:
 
 ```bash
 10.6.246.103 - - [23/Apr/2018:20:30:39 +0300] "POST /grid/2/messages HTTP/1.1" 200 48 0.0498
@@ -29,7 +28,7 @@ Method `task_1` should return:
 - full text of the first line with an error (the presence of the substring `error` in any case)
 - If the input is text that does not contain the word `error`, return an empty string
 
-#### 2. at the input of metod `task_2` (read "variable") is sent text:
+#### 2. at the input of method `task_2` (read "variable") is sent text:
 
 ```bash
 10.6.246.103 - - [23/Apr/2018:20:30:39 +0300] "POST /test/2/messages HTTP/1.1" 200 48 0.0498
@@ -53,7 +52,7 @@ Method `task_2` should return:
 - lines that do not match the format `10.6.246.103 - - [23/Apr/2018:20:30:39 +0300] "POST /test/2/messages HTTP/1.1" 200 48 0.0498` should be ignored
 - if there is no suitable string at the input, the method should return an empty array
 
-#### 3. at the input of metod `task_3` (read "variable") is sent text:
+#### 3. at the input of method `task_3` (read "variable") is sent text:
 
 ```bash
 2018-04-23 17:17:49.7 ubuntu-xenial[14319] Debug - Calling core with action: event
