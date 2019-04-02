@@ -92,7 +92,7 @@ Method `def task_4_3(array)` should return:
 task_4_3([7, 3, [4, 5, 1], 1, 9, [2, 8, 1]]) # => [9, 8, 7, 5, 4, 3, 2, 1]
 ```
 
-#### 4 at the input of method `def task_4_4?(string)` (read "variable") is sent an string
+#### 4 at the input of method `def task_4_4(string)` (read "variable") is sent an string
 - Check if it is palindrome?
 - (https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC)
 
